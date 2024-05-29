@@ -1,6 +1,32 @@
+# Ismail Hojamov
 
+**Junior Backend Developer**
 
-<!---
-808thlife/808thlife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm Ismail Hojamov, a passionate junior backend developer with 1 year of experience in Python and Vanilla JavaScript. My expertise includes building and maintaining REST APIs, containerizing applications with Docker, and optimizing database performance with Postgres and Redis for caching.
+
+## 🛠️ Skills
+
+- **Languages**: Python, JavaScript (Vanilla)
+- **Backend Development**: REST API
+- **Databases**: Postgres, Redis (caching)
+- **Containerization**: Docker
+
+## 💼 Experience
+
+- **Backend Development**: 1 year of experience creating robust backend solutions.
+- **REST API**: Proficient in designing and implementing RESTful services.
+- **Database Management**: Skilled in using Postgres for relational data and Redis for efficient caching.
+- **Containerization**: Experienced in using Docker to containerize applications for consistent environments across development and production.
+
+## 🌱 Currently Learning
+
+- Advanced Python features and best practices.
+- Enhancing JavaScript skills to explore more front-end frameworks.
+- Exploring new technologies and tools to improve backend efficiency and scalability.
+
+## 📫 How to Reach Me
+
+- **Email**: [khqyop@gmail.com](mailto:your-email@example.com)
+- **Telegram**: [Click Here](https://t.me/assmailTunberg)
+
+Feel free to connect with me if you have any questions or if you'd like to collaborate on exciting projects!
