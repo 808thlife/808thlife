@@ -23,6 +23,7 @@ Hello! I'm Ismail Hojamov, a passionate junior backend developer with 1 year of 
 - Advanced Python features and best practices.
 - Enhancing JavaScript skills to explore more front-end frameworks.
 - Exploring new technologies and tools to improve backend efficiency and scalability.
+- Learning AI basics to be able to use AI in the future projects.
 
 ## 📫 How to Reach Me
 
