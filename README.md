@@ -2,7 +2,7 @@
 
 **Junior Backend Developer**
 
-Hello! I'm Ismail Hojamov, a passionate junior backend developer with 1 year of experience in Python and Vanilla JavaScript. My expertise includes building and maintaining REST APIs, containerizing applications with Docker, and optimizing database performance with Postgres and Redis for caching.
+Hello! I'm Ismail, a passionate junior backend developer with 1 year of experience in Python and Vanilla JavaScript. My expertise includes building and maintaining REST APIs, containerizing applications with Docker, and optimizing database performance with Postgres and Redis for caching.
 
 ## 🛠️ Skills
 
