@@ -1,4 +1,4 @@
-# Ismail Hojamov
+# Ismail 
 
 **Junior Backend Developer**
 
