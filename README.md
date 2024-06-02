@@ -31,3 +31,27 @@ Hello! I'm Ismail Hojamov, a passionate junior backend developer with 1 year of 
 - **Telegram**: [Click Here](https://t.me/assmailTunberg)
 
 Feel free to connect with me if you have any questions or if you'd like to collaborate on exciting projects!
+
+## Tech Stack
+
+### Languages, Frameworks
+![Python](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png)
+![Django](https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4)
+
+### APIs:
+![REST](https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png)
+
+### Containerization
+![Docker](https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png)
+
+### Logs
+![Grafana](https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png)
+![Prometheus](https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png)
+
+### DBs:
+![Redis](https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png)
+![PostgreSQL](https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png)
+![SQLite](https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17)
+
+### Other:
+![Elasticsearch](https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png)
