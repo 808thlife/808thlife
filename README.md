@@ -34,4 +34,4 @@ Feel free to connect with me if you have any questions or if you'd like to colla
 
 ## 🧰 Tech Stack
 
-<p align="left"> <a href="https://github.com/808thlife"><img src="https://skillicons.dev/icons?i=python,django,grafana,prometheus,postgres,git,github,docker,redis,javascript&perline=5"> </a> </p>
+<p align="left"> <a href="https://github.com/808thlife"><img src="https://skillicons.dev/icons?i=python,django,grafana,prometheus,postgres,git,github,docker,redis,postman,javascript&perline=5"> </a> </p>
