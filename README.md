@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Ismail and I am Software Developer with background in Backend (django), <br>Flutter and AI. Currently advancing in Flutter Development and AI
+I am Ismail and I am Software Developer with background in Backend (django), <br>Mobile Dev (flutter) and AI. Currently advancing in Mobile Development and AI
 
 
 # 💻 Tech Stack:
